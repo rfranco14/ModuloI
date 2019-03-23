@@ -1,0 +1,33 @@
+C:\Visual\Net\Modulos\I\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.deps.json
+C:\Visual\Net\Modulos\I\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.json
+C:\Visual\Net\Modulos\I\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.dev.json
+C:\Visual\Net\Modulos\I\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Visual\Net\Modulos\I\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Visual\Net\Modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.csprojAssemblyReference.cache
+C:\Visual\Net\Modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Visual\Net\Modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Visual\Net\Modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
+C:\Visual\Net\Modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Visual\Net\Modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Users\programacion\Sabado 090219\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.csprojAssemblyReference.cache
+C:\Users\programacion\Sabado 090219\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Sabado 090219\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Users\programacion\Sabado 090219\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
+C:\Users\programacion\Sabado 090219\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Users\programacion\Sabado 090219\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Users\programacion\Sabado 090219\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.deps.json
+C:\Users\programacion\Sabado 090219\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.json
+C:\Users\programacion\Sabado 090219\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.dev.json
+C:\Users\programacion\Sabado 090219\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Users\programacion\Sabado 090219\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Visual\Net\Modulos\I\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.csprojAssemblyReference.cache
+C:\Visual\Net\Modulos\I\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Visual\Net\Modulos\I\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Visual\Net\Modulos\I\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
+C:\Visual\Net\Modulos\I\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Visual\Net\Modulos\I\ModuloI\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Visual\Net\Modulos\I\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.deps.json
+C:\Visual\Net\Modulos\I\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.json
+C:\Visual\Net\Modulos\I\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.dev.json
+C:\Visual\Net\Modulos\I\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Visual\Net\Modulos\I\ModuloI\bin\Debug\netcoreapp2.2\CentralTelefonica.pdb
